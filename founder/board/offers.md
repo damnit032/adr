@@ -2,29 +2,34 @@
 Puntuación: 6/10 | Voto: FUND IF
 
 ## Lo que es fuerte
-- **Dolor agudo y caro.** Un producto bloqueado no se vende o no entra en el almacén: el vendedor pierde ingresos cada día que pasa. El dolor es real y urgente, que es justo lo que la lente busca primero en el mercado.
-- **Compradores con dinero y fáciles de encontrar.** Los vendedores de Amazon ya facturan, y buscan la solución donde el fundador piensa estar: Google y los foros de vendedores. Llegar a ellos sale barato.
-- **Resultado soñado claro y fácil de explicar.** "Tu producto vuelve a estar a la venta." No hace falta convencer a nadie de que lo quiere.
-- **Poco esfuerzo para el comprador.** Es un servicio llave en mano: se revisa su documentación, se le deja lista para subir y se le acompaña hasta que Amazon responda. Ese es el punto fuerte de la ecuación de valor.
-- **La credibilidad de base existe.** El certificado ADR y la experiencia con mercancías peligrosas en el negocio dan un motivo para creer que funciona, antes incluso de los testimonios.
-- **Garantía de devolución desde el primer día y uso inteligente de los 300 €.** Cambiar casos reales a precio reducido por testimonios es la manera correcta de fabricar la prueba que hoy falta.
+- **Dolor agudo y medible.** Un producto bloqueado por la revisión hazmat no vende ni entra en el almacén de Amazon. El vendedor sabe exactamente lo que pierde cada día, y la urgencia viene del propio problema, no hace falta inventarla.
+- **Compradores con dinero y con un motivo claro para pagar.** Son vendedores con stock inmovilizado. 149 € por producto es poco al lado de un lote parado, pero hay que comprobarlo con datos (ver preguntas).
+- **El resultado soñado es fácil de describir:** "tu producto vuelve a estar a la venta". La oferta se entiende en una frase.
+- **El diagnóstico de 29 € en 24 horas reduce el riesgo de compra.** Pagar poco por saber si hay salida antes de comprometerse sube la probabilidad percibida y baja el esfuerzo de decidir. Es la mejor pieza del stack.
+- **La garantía es honesta.** Cubre lo que el fundador controla (errores y plazos) y no promete lo que decide Amazon. No es una garantía falsa.
+- **La credibilidad de partida es real.** El certificado de consejero de seguridad ADR y más de 10 años con mercancías peligrosas dan una prueba de competencia que un gestor genérico no tiene, aunque todavía no haya casos resueltos que lo demuestren.
+- **No compite en precio.** Se apoya en conocimiento especializado, no en ser más barato.
 
 ## Lo que lo mataría (los 3 principales, el más peligroso primero)
-1. **Una garantía que depende de cosas que el negocio no controla.** El desbloqueo depende de que el proveedor o fabricante del vendedor entregue la documentación y de la decisión de Amazon. Si la garantía devuelve el dinero también en esos casos, cada caso sin documentación del proveedor se convierte en horas de trabajo perdidas más un reembolso. Hace falta saber con qué frecuencia el proveedor no tiene o no entrega la documentación, y nadie tiene ese dato todavía.
-2. **Un precio sin economía detrás.** 149 € por producto, sin saber cuántas horas lleva cada caso ni cuánto tarda, puede ser demasiado barato (no da margen) o competir solo en precio frente a alternativas que aún no se conocen. Los packs para catálogos grandes, sin precio, son donde más fácilmente se regala el margen.
-3. **Un mercado de tamaño y ritmo desconocidos.** No se sabe cuántos vendedores en España se encuentran con este bloqueo, si les pasa una vez o de forma recurrente, ni si el mercado crece. Si el problema surge solo de vez en cuando, cada cliente compra una vez y el negocio vive de captar clientes nuevos sin parar, a un coste por cliente que tampoco se conoce.
+1. **Probabilidad percibida baja por falta de pruebas y por depender de terceros.** El resultado depende de dos actores que el fundador no controla: el fabricante (que tiene que entregar la documentación) y Amazon (que toma la decisión final). Hoy no hay casos, ni tasa de desbloqueo, ni testimonios. Si la tasa real es baja o el fabricante tarda semanas, el comprador no cree que funcione y la oferta se cae por donde suelen caer: por la probabilidad.
+2. **No sabemos si el mercado es lo bastante grande ni fácil de alcanzar.** No hay datos de tamaño, de frecuencia del bloqueo entre vendedores españoles de electrónica, juguetes y accesorios con batería, ni de si el problema crece o se reduce. Un canal basado solo en Google y foros, con 300 € de presupuesto, puede no generar volumen. Con un mercado débil, ninguna oferta sale adelante.
+3. **El esfuerzo y el tiempo para el comprador pueden ser altos de verdad.** El plazo de "3 días laborables" empieza cuando llega la documentación, así que el tiempo total depende del fabricante y nadie sabe cuánto es. Si el vendedor tiene que perseguir él mismo al fabricante y subir los documentos, el servicio le ahorra menos trabajo del que parece. A eso se suma un riesgo de oferta "commodity": si otros (gestores, agencias de Amazon, la propia ayuda de Amazon o herramientas gratuitas) resuelven lo mismo, 149 € deja de ser la opción obvia. Todavía no se sabe qué competidores hay ni qué cobran.
 
 ## Las preguntas que le haría al fundador
-- ¿Cuántas horas y cuántos días calendario lleva un caso típico, y uno difícil?
-- ¿Qué haces cuando el proveedor del vendedor no tiene o no entrega la documentación? ¿Lo cubre la garantía?
-- ¿Cuántos vendedores en España tienen productos bloqueados en esta revisión, y con qué frecuencia les vuelve a pasar? (Pregunta abierta: no hay datos.)
-- ¿Quién más resuelve esto hoy (agencias, consultores, el propio vendedor con plantillas) y a qué precio? (Pregunta abierta: no hay datos.)
-- ¿Cuánto pierde un vendedor por cada semana que el producto está bloqueado? Ese número decide si 149 € es barato o caro para él.
-- ¿Podrías cobrar el doble con un plazo de entrega comprometido, y seguir siendo la opción obvia?
-- ¿Cuánto tiempo a la semana puedes dedicar al negocio y cuántos casos al mes caben en ese tiempo?
+- ¿Cuántos vendedores en España se encuentran con este bloqueo, con qué frecuencia y cuánto les cuesta cada día bloqueado? (Pregunta abierta: no hay datos.)
+- ¿Quién persigue al fabricante, tú o el vendedor? ¿Puedes encargarte tú de esa gestión para que el comprador no tenga que hacer casi nada?
+- ¿Cuánto tarda de media el fabricante en entregar la documentación y qué pasa cuando no responde?
+- ¿Qué tasa de desbloqueo esperas, y qué tasa necesitarías para que la oferta siga siendo creíble?
+- ¿Quién más resuelve esto hoy (agencias, gestores, consultores ADR, servicios de Amazon) y a qué precio? (Pregunta abierta: no hay datos.)
+- ¿Cuánto cuesta captar un cliente por Google y por los foros? (Pregunta abierta.)
+- Si duplicaras el precio a 298 €, ¿seguirías siendo la opción obvia? ¿Qué tendrías que añadir para que lo fueras?
+- ¿Cuántas horas te lleva cada caso y cuántas horas a la semana puedes dedicar al negocio?
+- ¿Qué más necesita el vendedor después del desbloqueo (otros productos del catálogo, renovaciones, cambios de proveedor) que puedas añadir al stack a bajo coste?
 
 ## Si FUND IF: las condiciones
-1. **Acotar la garantía a lo que se controla.** La devolución cubre que la documentación preparada sea correcta y completa; antes de cobrar, un diagnóstico confirma que el proveedor puede aportar lo necesario. Si no puede, se devuelve el dinero o no se cobra el servicio completo, y eso se dice por escrito.
-2. **Medir los 5–10 primeros casos.** Registrar horas, días hasta la respuesta de Amazon, tasa de desbloqueo y casos en que faltaban documentos del proveedor. Con esos números se fija el precio definitivo y el de los packs; no antes.
-3. **Construir la oferta completa, no solo el precio.** Añadir lo que es barato de entregar y valioso para el comprador: un plazo de entrega comprometido, la carta o el guion para pedir los documentos al proveedor, y una lista de comprobación para que el resto del catálogo no se bloquee. Convertir los testimonios en casos con cifras (días bloqueado, días hasta el desbloqueo).
-4. **Responder a las preguntas abiertas del mercado** (tamaño, frecuencia del problema, competidores y sus precios, coste de captar un cliente) antes de gastar dinero en algo que no sean los primeros casos.
+1. **Probar antes de escalar.** Resolver los 5–10 casos piloto y medir: horas por caso, tasa de desbloqueo, días de espera del fabricante y días totales hasta el desbloqueo. Seguir solo si los números permiten afirmar algo creíble (por ejemplo, "X de cada Y casos desbloqueados en Z días") y hay al menos 3 testimonios con nombre o empresa autorizados.
+2. **Validar el mercado con datos reales**, no con suposiciones: cuántas peticiones de diagnóstico llegan desde Google y los foros, y a qué coste, durante el piloto. Si el diagnóstico de 29 € no se vende solo, el mercado no está ahí.
+3. **Reducir el esfuerzo del comprador.** Asumir la gestión con el fabricante (plantillas, seguimiento, recordatorios) y dejar al vendedor un solo paso final: subir los documentos. Dar un plazo total realista una vez se conozca el tiempo del fabricante.
+4. **Construir el stack con lo que se aprenda en el piloto:** lista de comprobación previa para nuevos productos, plantilla de petición al fabricante, revisión gratuita si Amazon pide una aclaración sobre lo entregado. Añadir solo lo que sea barato de entregar y valioso para el vendedor.
+5. **Fijar el precio por el valor y no por el coste**, una vez se sepa cuánto pierde el vendedor con un producto bloqueado y qué cobran las alternativas.
+6. **Elegir un nombre claro** que diga el resultado (desbloquear el producto), no el proceso.
