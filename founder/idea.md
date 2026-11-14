@@ -1,7 +1,7 @@
-# La Trastienda de la Logística
+# Desbloqueo Hazmat (nombre provisional)
 
-- What it is: guías, plantillas y formación que explican el ADR (acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera) desde el muelle de carga, es decir, desde el día a día de quien prepara y expide la mercancía.
-- Who it is for: responsables de almacén y de expedición de pymes que expiden mercancía peligrosa; y consejeros de seguridad ADR externos (que asesoran a varias empresas).
-- What it sells, at what price: guía a 19 € en preventa y 29 € después; pack de formación "1.3" para equipos (formación del personal exigida por el capítulo 1.3 del ADR) hasta 490 €; además plantillas (precio no indicado).
-- Where and how: solo online. Web propia con pago en un clic. Los clientes llegan desde Google (búsqueda) y Amazon; LinkedIn solo como escaparate, no como canal de venta. Mercado hispanohablante, presumiblemente España (precios en euros).
-- Budget and constraints: no indicados todavía (presupuesto, tiempo disponible y experiencia del fundador en ADR pendientes de confirmar).
+- Qué es: un servicio online que desbloquea los productos que Amazon retiene en su revisión de mercancías peligrosas (baterías, colonias, aerosoles, productos de limpieza).
+- Para quién: vendedores de Amazon en España con productos retenidos en esa revisión.
+- Qué vende y a qué precio: la gestión del desbloqueo, a 79 € por producto.
+- Dónde y cómo: solo online. Los clientes lo encuentran buscando el problema en Google y en los foros de vendedores, y lo encargan y pagan en la web propia.
+- Presupuesto y limitaciones: 300 € para empezar. Tiempo disponible y experiencia del fundador no indicados.

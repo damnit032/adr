@@ -1,29 +1,28 @@
-# Monopoly lens
-Score: 4 | Vote: FUND IF
+# Lente Monopoly
+Puntuación: 4/10 | Voto: FUND IF
 
-## What is strong
-- **Un nicho pequeño y bien delimitado.** "ADR desde el muelle" en español, para quien prepara, embala, etiqueta y carga en el almacén, es justo el tipo de mercado pequeño que el lens Monopoly busca para empezar. Si alguien puede ser "la referencia" en algo, es en algo así de concreto.
-- **La demanda la crea una obligación.** El capítulo 1.3 obliga a formar al personal de carga, descarga y expedición. No hace falta convencer a nadie de que tiene el problema, solo de que esta es la mejor forma de resolverlo.
-- **Una escalera de producto con sentido.** Guía barata (19-29 €) como puerta de entrada, plantillas y luego el pack 1.3 de hasta 490 €. Con eso se puede crecer desde el nicho del almacén hacia formación de equipos completos.
-- **Una posible fuente de durabilidad.** Si el ADR se sigue revisando de forma periódica, el negocio podría vender actualizaciones recurrentes y construir una marca de "quien te lo explica primero y en claro". La marca es la única ventaja duradera que este negocio puede construir de forma realista.
+## Lo que es fuerte
+- **Un mercado pequeño y bien delimitado:** vendedores de Amazon en España con productos retenidos en la revisión de mercancías peligrosas. Es justo el tipo de nicho estrecho que la lente Monopoly busca para dominar primero y ampliar después (otros países de Amazon Europa, otras revisiones de cumplimiento).
+- **Un dolor concreto y urgente:** un producto bloqueado no se vende. El comprador sabe que tiene el problema y lo busca activamente, así que el producto cabe en una sola frase.
+- **Un posible conocimiento propio:** si el fundador llega a saber exactamente qué documentación acepta Amazon para cada tipo de producto (baterías, colonias, aerosoles, limpieza), ese saber acumulado caso a caso es la única fuente de ventaja duradera visible: un conocimiento que mejora con cada expediente y que un recién llegado no tiene.
+- **Riesgo de entrada bajo:** con 300 € y un canal 100 % online, probar si hay demanda es barato.
 
-## What would kill it (the top 3, most dangerous first)
-1. **No hay secreto ni ventaja 10x, así que se copia en seis meses.** Una guía y unas plantillas sobre una norma pública son conocimiento al alcance de cualquier consultora, academia o consejero de seguridad. Si el enfoque "desde el muelle" no es mucho mejor (y no un poco mejor) que lo que el comprador ya tiene, esto es competencia de precio en contenido, que es justo lo que el lens Monopoly considera que destruye el margen. Hoy no sabemos quién más vende esto al mismo comprador ni a qué precio.
-2. **La distribución está sin demostrar.** Google y Amazon son canales donde se compite por atención, no canales propios. Captar por búsqueda lleva tiempo y depende de volúmenes que nadie ha medido, y en Amazon un libro técnico de nicho puede no venderse nunca. No hay respuesta a cómo llegan los primeros 100 clientes ni a cuánto cuesta cada uno. El cliente de 490 € (una pyme que forma a su equipo) además no suele comprar con "pago en un clic" desde un anuncio.
-3. **El segundo cliente puede ser el competidor.** Los consejeros de seguridad externos ya asesoran a las empresas obligadas y es razonable pensar que muchos imparten o venden su propia formación 1.3. Para ellos este producto puede ser un sustituto de su trabajo, no una herramienta. Si no se encaja como su aliado (licencia, marca blanca, material para sus clientes), el negocio choca con quien controla el acceso al cliente final.
+## Lo que lo mataría (los 3 principales, el más peligroso primero)
+1. **Sin barrera frente a copias.** Es un servicio de gestión documental sin tecnología propia, sin efectos de red, sin escala ni marca. Cualquier consultora de Amazon, agencia de cumplimiento o freelance puede ofrecer lo mismo en el mes seis, y entonces la competencia se libra en precio. Hoy no se sabe quién más vende esto al mismo comprador: pregunta abierta.
+2. **La plataforma controla las reglas.** Todo el negocio depende de un proceso que Amazon decide y puede cambiar: si simplifica la revisión, publica guías más claras o ofrece su propio servicio, la demanda puede desaparecer de un día para otro. Cómo y con qué frecuencia cambian esas reglas es una pregunta abierta.
+3. **Distribución sin probar.** Captar por Google y foros suena bien, pero posicionarse en búsquedas lleva tiempo y 300 € no compran mucho anuncio. No hay dato del coste de captar un cliente ni de cuántos vendedores españoles buscan esto al mes; con 79 € por producto, si captar a cada cliente cuesta parecido, no queda margen.
 
-## The questions I would ask the founder
-- ¿Qué sabes del muelle que los consejeros y las academias no saben o no explican? ¿Cuál es el secreto, dicho en una frase?
-- ¿Quién vende hoy formación 1.3 o guías ADR en español al responsable de almacén de una pyme, a qué precio y cómo se lo hace llegar? (Dato abierto: nadie lo tiene todavía.)
-- ¿Cuántas pymes en España expiden mercancía peligrosa y cuántas personas de almacén tendrían que estar formadas? ¿Qué parte de ese mercado puedes tener en dos años? (Dato abierto.)
-- ¿Cómo llegan los primeros 100 clientes, en qué canal y cuánto cuesta cada uno? ¿Cuántas búsquedas al mes tiene este tema en Google en español? (Dato abierto.)
-- ¿La formación 1.3 que vendes la aceptaría una inspección o un consejero como "formación adecuada"? ¿Qué la respalda?
-- ¿Por qué ahora? ¿Hay un cambio en la norma, en las inspecciones o en el mercado que abra una ventana?
-- ¿Qué impide que una consultora grande o un consejero copie tus plantillas y las regale a sus clientes en el mes seis?
-- ¿Ves a los consejeros como clientes, socios o competidores? ¿Qué gana un consejero recomendándote?
+## Las preguntas que le haría al fundador
+- ¿Cuál es el secreto? ¿Qué sabes de la revisión de mercancías peligrosas de Amazon que otros no saben, y lo has demostrado desbloqueando productos reales?
+- ¿Quién más vende esto hoy a un vendedor español, y a qué precio? (pregunta abierta: no hay datos de competidores)
+- ¿Cuántos vendedores en España tienen productos retenidos cada mes? (pregunta abierta: no hay tamaño de mercado)
+- ¿Cómo llegan tus primeros 100 clientes y cuánto cuesta cada uno?
+- ¿Qué te impide ser copiado en seis meses? ¿Qué acumulas (plantillas, base de casos resueltos, historial de éxito) que sea más difícil de replicar cada mes?
+- ¿Por qué ahora? ¿Ha cambiado algo en la revisión de Amazon que haga crecer este problema?
+- ¿Qué pasa si Amazon cambia el proceso o lanza su propia ayuda? ¿Dónde te expandes después?
 
-## If FUND IF: the conditions
-1. **Nombrar el secreto y probarlo frente a lo que ya existe.** Un mapa de competidores con precios reales y una explicación de en qué es el enfoque "desde el muelle" claramente mejor (no un poco mejor) para el responsable de almacén.
-2. **Demostrar distribución antes de producir el catálogo.** Una prueba barata con precio real (preventa de la guía o lista de espera del pack 1.3) que traiga compradores de pago por Google o Amazon, con el coste por cliente medido.
-3. **Decidir el papel de los consejeros.** Hablar con varios consejeros y salir con una respuesta: canal (licencia o marca blanca para sus clientes) o competencia. Si son canal, puede ser la vía de distribución más defendible del negocio.
-4. **Diseñar la durabilidad desde el inicio.** Un modelo recurrente (actualizaciones con cada revisión del ADR, suscripción a plantillas o recertificación de equipos) que convierta la venta única en una marca a la que el cliente vuelve.
+## Si FUND IF: las condiciones
+1. **Probar el saber propio:** desbloquear al menos 10 productos reales de pago, con tasa de éxito y tiempo medio documentados, antes de gastar más.
+2. **Medir la distribución:** saber cuánto cuesta captar a cada cliente y que quede claramente por debajo de lo que deja cada encargo.
+3. **Construir una ventaja que crezca:** convertir cada caso resuelto en una base de conocimiento propia (por categoría de producto y tipo de documento) que haga el servicio más rápido y fiable que cualquier alternativa, y demostrarlo con resultados.
+4. **Mapear la competencia:** identificar quién más ofrece esto en España y a qué precio, y confirmar que hay un hueco que se puede dominar.

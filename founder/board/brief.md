@@ -1,19 +1,16 @@
-# Brief para el consejo: La Trastienda de la Logística
+# Brief para el consejo: Desbloqueo Hazmat (nombre provisional)
 
 ## La idea, tal como la presenta el fundador
 
-- **Qué es:** un negocio de contenido y formación que explica el ADR (acuerdo europeo sobre transporte internacional de mercancías peligrosas por carretera) "desde el muelle": desde la perspectiva práctica de quien prepara, embala, etiqueta, documenta y carga la mercancía peligrosa en un almacén.
-- **Productos:**
-  - Guías (formato no especificado; se venderían en la web propia y en Amazon, lo que sugiere libro/ebook): 19 € en preventa, 29 € después.
-  - Plantillas (precio no indicado).
-  - Pack de formación "1.3" para equipos: hasta 490 €. El capítulo 1.3 del ADR obliga a que todo el personal que interviene en el transporte de mercancías peligrosas (incluidos carga, descarga y expedición) reciba formación adecuada a sus funciones.
-- **Clientes:**
-  1. Responsables de almacén y de expedición en pymes que expiden mercancía peligrosa.
-  2. Consejeros de seguridad ADR externos (profesionales que asesoran a varias empresas obligadas a tener consejero).
-- **Canal:** 100 % online. Web propia con pago en un clic. Captación desde Google (búsqueda) y Amazon. LinkedIn se usaría solo como escaparate, no como canal principal de venta.
-- **Mercado:** hispanohablante, presumiblemente España (precios en euros).
+- **Qué es:** un servicio online que desbloquea los productos que Amazon retiene en su revisión de mercancías peligrosas ("hazmat"). Amazon revisa los productos que pueden ser mercancía peligrosa (por ejemplo, baterías, colonias, aerosoles y productos de limpieza) y puede bloquear su venta o su envío a sus almacenes hasta que el vendedor aporte la documentación que pide.
+- **Clientes:** vendedores de Amazon en España con productos retenidos en esa revisión.
+- **Precio:** 79 € por producto desbloqueado.
+- **Canal:** 100 % online. Los clientes lo encuentran buscando el problema en Google y en los foros de vendedores, y lo encargan y pagan en la web propia.
+- **Presupuesto inicial:** 300 €.
+- **Nombre:** sin decidir.
 
 ## Lo que no se sabe todavía
 
-- Presupuesto, tiempo disponible y si el fundador tiene experiencia o credenciales propias en ADR (por ejemplo, certificado de consejero de seguridad).
-- Tamaño del mercado, competidores, coste de captar un cliente y márgenes: no hay datos aún.
+- Tiempo disponible del fundador y si tiene experiencia en mercancías peligrosas o en la revisión de Amazon.
+- Qué incluye exactamente el servicio, qué pasa si el producto no se desbloquea y cuánto tarda.
+- Tamaño del mercado, competidores, coste de captar un cliente y margen: no hay datos aún.

@@ -1,44 +1,42 @@
-# Consejo: La Trastienda de la Logística
+# Consejo: Desbloqueo Hazmat (nombre provisional)
 
 ## Votación
 
-**3 FUND IF, 0 PASS.** Puntuación media: **4,7 / 10** (Offers 5, Monopoly 4, Product 5).
+**3 FUND IF, 0 PASS.** Puntuación media: **4,3 / 10** (Offers 5, Monopoly 4, Product 4).
 
-Nadie financia la idea tal como está; nadie la descarta. Los tres ven el mismo punto de partida bueno (una obligación legal real, el capítulo 1.3 del ADR, y un ángulo claro, "desde el muelle") y los mismos huecos.
+Ninguno financia la idea tal como está; ninguno la descarta. Los tres ven un dolor urgente y fácil de explicar ("Amazon me retiene el producto y no vendo") y un comprador que busca la solución justo cuando la necesita. Y los tres ven el mismo hueco: nada demuestra todavía que el servicio consiga desbloquear productos.
 
 Memos: [offers](board/offers.md) · [monopoly](board/monopoly.md) · [product](board/product.md)
 
 ## Riesgos que señalan varios miembros (primero)
 
-1. **Credibilidad técnica sin demostrar (los tres).** En mercancías peligrosas, el comprador necesita poder defender la formación ante una inspección o un accidente. Hoy no consta quién respalda el contenido ni con qué credencial, ni si el pack 1.3 deja un registro de formación presentable. Un error en una guía es una infracción para el cliente.
-2. **Distribución y números sin medir (los tres).** No hay datos de volumen de búsqueda, coste por cliente, tamaño del mercado ni precios de la competencia. Con guías de 19-29 €, el coste de captar un cliente puede comerse el margen; y una pyme no suele comprar un pack de 490 € con "pago en un clic" desde Google.
-3. **La guía barata no puede ser el negocio (Offers, Product; Monopoly en parte).** En Amazon compite con todo el contenido genérico sobre ADR y envejece con cada revisión. El dinero está en el pack para equipos.
-4. **El papel del consejero de seguridad está sin decidir (los tres).** Puede ser cliente, canal o competidor directo, porque muchos ya imparten su propia formación 1.3.
-5. **Contenido fácil de copiar (Monopoly, Product).** Sobre una norma pública, la única ventaja duradera realista es marca + actualización constante + experiencia de producto.
+1. **No hay pruebas de que funcione (los tres).** Quien decide es Amazon, no el servicio. No hay casos resueltos, no consta la experiencia del fundador en mercancías peligrosas ni en esta revisión, y no hay política para cuando el producto no se desbloquea. El comprador no tiene motivo para creer que pagar 79 € le devuelve las ventas.
+2. **Mercado y captación sin medir (Offers, Monopoly; Product lo apunta).** No se sabe cuántos vendedores en España tienen productos retenidos, si el problema crece, cuánto cuesta captar a cada uno ni qué cobra la competencia. Con 79 € por producto y 300 € de presupuesto, si captar a un cliente cuesta parecido, no queda margen.
+3. **Fácil de copiar y de convertir en trámite barato (Offers, Monopoly).** Sin un paquete diferenciado ni un saber acumulado, es "te hago el papeleo" y se acaba compitiendo por precio con agencias, consultores y freelances.
+4. **Dependencia de lo que no se controla (Monopoly, Product).** Las reglas las pone Amazon y puede cambiarlas o simplificarlas. La documentación suele tener que salir del fabricante o del proveedor del vendedor. Cualquier fallo en esos traspasos lo vive el cliente como un fallo del servicio.
+5. **Exactitud de los documentos (Product).** Con mercancía peligrosa, presentar un documento que no corresponde al producto o hecho con prisas puede costarle al vendedor el anuncio o la cuenta, y al negocio su reputación. No hay atajos aceptables.
 
 ## Desacuerdos que se mantienen
 
-- **Consejeros externos.** Product: aparcarlos para una segunda fase y centrarse en el almacén. Offers y Monopoly: una licencia o marca blanca para consejeros podría ser la vía de distribución más defendible. Se decide hablando con consejeros reales.
-- **La escalera de producto.** Monopoly la ve como una fortaleza (guía → plantillas → pack). Product la ve como falta de foco: tres productos a la vez. Offers queda en medio: guía como puerta de entrada, pack como producto central.
-- **Precio del pack.** Offers propone probar un precio más alto que 490 €; los demás no se pronuncian.
+- **Foco o amplitud.** Product: empezar con una o dos categorías (por ejemplo, solo cosmética o solo baterías) y decir que no al resto. Offers: pensar en paquetes o precio por catálogo para vendedores con muchos productos. Monopoly: dominar el nicho español y luego ampliar a otros países de Amazon Europa y otras revisiones de cumplimiento.
+- **Precio y garantía.** Product valora la tarifa fija y simple de 79 €. Offers cree que, con una garantía por resultado y un paquete completo, se podría cobrar bastante más y seguir siendo la opción obvia.
+- **De dónde sale la ventaja.** Monopoly solo ve una: el conocimiento acumulado caso a caso. Offers la busca en la oferta (garantía y paquete). Product, en la experiencia y el control de calidad.
 
 ## Condiciones (checklist para el resto del pack)
 
-- [ ] **Credencial y respaldo técnico visibles**: quién revisa el contenido y con qué credencial ADR acreditable. *(fundador)*
-- [ ] **El pack 1.3 deja prueba de formación**: contenido por función (carga, embalaje, etiquetado, documentación), evaluación y registro que la empresa pueda presentar. *(/founder-offer, /founder-ops)*
-- [ ] **Compromiso de actualización escrito** con cada revisión del ADR, y qué recibe quien compró la versión anterior. *(/founder-offer, /founder-ops)*
-- [ ] **Mapa de competidores con precios reales** de formación 1.3 y guías ADR en español, y en qué es "desde el muelle" claramente mejor. *(/founder-competitors)*
-- [ ] **Tamaño del mercado y volumen de búsqueda**: pymes expedidoras y consejeros en España; búsquedas mensuales del tema. *(/founder-competitors, /founder-marketing)*
-- [ ] **Pack de equipos como producto central**; la guía como entrada o parte del pack, no como negocio. *(/founder-offer)*
-- [ ] **Garantía real y urgencia honesta** (preventa con fecha, plazas de cohorte). *(/founder-offer, /founder-cfo)*
-- [ ] **Probar el precio del pack**, incluido uno superior a 490 €, y una licencia para consejeros. *(/founder-consumer, /founder-pricing)*
-- [ ] **Coste de captar un cliente medido** con una prueba barata y precio real (preventa de la guía o lista de espera del pack). *(/founder-launch, /founder-cfo)*
-- [ ] **Decidir el papel de los consejeros** tras hablar con varios: canal, cliente o competencia. *(/founder-consumer, fundador)*
-- [ ] **3-5 pilotos** (almacenes o consejeros) con resultado o testimonio verificable antes del lanzamiento. *(/founder-launch)*
-- [ ] **Recorrido completo diseñado y probado** con un almacén real: búsqueda → página → pago → formación → registro → seguimiento. *(/founder-ops, /founder-launch)*
-- [ ] **Modelo recurrente**: actualizaciones, suscripción a plantillas o reciclaje de equipos. *(/founder-cfo, /founder-pricing)*
-- [ ] **Una frase** que un responsable de almacén entienda sin leer más. *(/founder-brand, /founder-marketing)*
+- [ ] **5-10 desbloqueos reales** antes de cobrar a desconocidos (gratis o con descuento a cambio de testimonio), con tasa de éxito y tiempo medio documentados. *(/founder-launch)*
+- [ ] **Política clara si no se desbloquea**: devolución, reintento o "no pagas si no funciona", solo si la tasa de éxito medida la hace asumible. *(/founder-offer, /founder-cfo)*
+- [ ] **Experiencia del cliente descrita de principio a fin**: qué se le pide, qué recibe, en qué plazo y qué pasa en cada fallo, incluido cuando su proveedor no entrega la documentación. *(/founder-ops)*
+- [ ] **Control de calidad escrito de cada documento** antes de enviarlo a Amazon; nunca presentar documentos que no correspondan al producto. *(/founder-ops)*
+- [ ] **Empezar por una o dos categorías** y comprobar qué exige Amazon en cada una según sus normas vigentes. *(/founder-competitors, /founder-ops)*
+- [ ] **Paquete, no trámite**: cubrir cada obstáculo del vendedor (qué falta, dónde conseguirlo, cómo presentarlo, qué hacer si lo rechazan, cómo evitar que se repita) con un nombre claro; valorar precio por catálogo. *(/founder-offer)*
+- [ ] **Medir la demanda en España**: búsquedas en Google y hilos en foros de vendedores sobre el problema. *(/founder-competitors, /founder-marketing)*
+- [ ] **Mapa de competidores con precios**: agencias, consultores, freelances y la propia ayuda de Amazon. *(/founder-competitors)*
+- [ ] **Coste de captar un cliente** medido y claramente por debajo de lo que deja cada encargo. *(/founder-cfo, /founder-launch)*
+- [ ] **Probar el precio**: 79 € frente a un precio mayor con garantía, y precio por paquete o catálogo. *(/founder-consumer, /founder-pricing)*
+- [ ] **Base de conocimiento propia** por categoría y tipo de documento, que haga cada caso más rápido y fiable. *(/founder-ops)*
+- [ ] **Plan B si Amazon cambia el proceso**: a qué países o revisiones de cumplimiento se amplía. *(/founder-plan)*
 
 ## La versión más fuerte que ve el consejo
 
-No es exactamente lo que se ha presentado. El consejo ve un negocio cuyo centro es **el pack de formación 1.3 para equipos de almacén y expedición de pymes**: formación por función, plantillas listas para usar y, sobre todo, un registro de formación que la empresa puede enseñar a un inspector, con contenido revisado por alguien con credencial ADR y actualizado con cada revisión del acuerdo (lo que da pie a una cuota recurrente). La guía de 19-29 € deja de ser el producto y pasa a ser la puerta de entrada que capta por Google y Amazon. Los consejeros de seguridad, en vez de un segundo público al que vender lo mismo, podrían ser el canal: una licencia para usar el material con sus clientes. Antes de producir el catálogo, una preventa con precio real tiene que demostrar que llegan compradores y a qué coste.
+Es más estrecha y más exigente que la presentada. Un servicio que empieza por una o dos categorías y las domina de verdad, sabiendo exactamente qué documentación acepta Amazon para cada una y cómo conseguirla del proveedor. Se lo hace todo al vendedor y lo vende con garantía por resultado ("si no se desbloquea, no pagas"), lo que le permite cobrar por el resultado y no por el trámite. Cada caso resuelto alimenta una base de conocimiento propia que lo hace más rápido y fiable que cualquier alternativa, y esa es su única defensa real frente a las copias. Los 300 € no se gastan en anuncios: se usan para resolver los primeros 5-10 casos reales, demostrar la tasa de éxito y sacar de ahí los testimonios que harán funcionar la captación por Google y los foros. Si los casos no salen, el consejo prefiere saberlo con 300 € y no con 3.000 €.
