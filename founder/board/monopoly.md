@@ -2,27 +2,27 @@
 Puntuación: 4/10 | Voto: FUND IF
 
 ## Lo que es fuerte
-- **Un mercado pequeño y bien delimitado:** vendedores de Amazon en España con productos retenidos en la revisión de mercancías peligrosas. Es justo el tipo de nicho estrecho que la lente Monopoly busca para dominar primero y ampliar después (otros países de Amazon Europa, otras revisiones de cumplimiento).
-- **Un dolor concreto y urgente:** un producto bloqueado no se vende. El comprador sabe que tiene el problema y lo busca activamente, así que el producto cabe en una sola frase.
-- **Un posible conocimiento propio:** si el fundador llega a saber exactamente qué documentación acepta Amazon para cada tipo de producto (baterías, colonias, aerosoles, limpieza), ese saber acumulado caso a caso es la única fuente de ventaja duradera visible: un conocimiento que mejora con cada expediente y que un recién llegado no tiene.
-- **Riesgo de entrada bajo:** con 300 € y un canal 100 % online, probar si hay demanda es barato.
+- **Un mercado pequeño y bien delimitado:** vendedores de Amazon en España con productos de batería de litio retenidos en la revisión de mercancía peligrosa. Es lo bastante estrecho como para que un solo especialista pueda llegar a ser la referencia, que es justo donde la lente Monopoly quiere empezar.
+- **Un posible secreto real:** el fundador tiene certificado de consejero de seguridad ADR en todas las especialidades y más de 10 años con mercancías peligrosas. Un vendedor medio o un consultor genérico de Amazon no tiene eso. Si ese saber se convierte en una tasa de desbloqueo claramente más alta que la de cualquier alternativa, esa ventaja es la que se puede defender.
+- **El dolor es concreto y tiene un momento claro:** el producto bloqueado no se vende. El cliente busca solución justo cuando tiene el problema, y eso encaja con un canal de búsqueda (Google, foros).
+- **La garantía de devolución** obliga a ser mejor que la alternativa, no solo más barato, y si la tasa de éxito es alta se convierte en prueba.
 
 ## Lo que lo mataría (los 3 principales, el más peligroso primero)
-1. **Sin barrera frente a copias.** Es un servicio de gestión documental sin tecnología propia, sin efectos de red, sin escala ni marca. Cualquier consultora de Amazon, agencia de cumplimiento o freelance puede ofrecer lo mismo en el mes seis, y entonces la competencia se libra en precio. Hoy no se sabe quién más vende esto al mismo comprador: pregunta abierta.
-2. **La plataforma controla las reglas.** Todo el negocio depende de un proceso que Amazon decide y puede cambiar: si simplifica la revisión, publica guías más claras o ofrece su propio servicio, la demanda puede desaparecer de un día para otro. Cómo y con qué frecuencia cambian esas reglas es una pregunta abierta.
-3. **Distribución sin probar.** Captar por Google y foros suena bien, pero posicionarse en búsquedas lleva tiempo y 300 € no compran mucho anuncio. No hay dato del coste de captar un cliente ni de cuántos vendedores españoles buscan esto al mes; con 79 € por producto, si captar a cada cliente cuesta parecido, no queda margen.
+1. **No hay durabilidad ni barrera frente a copias.** Hoy la ventaja es el saber de una persona, no una tecnología, una red ni una marca. En el mes seis, otro consultor de mercancías peligrosas, una agencia de servicios para vendedores de Amazon o una plantilla gratuita en un foro pueden ofrecer lo mismo. Y el negocio depende por completo de las reglas de Amazon: si Amazon cambia o simplifica el proceso, o lo automatiza, el problema que se resuelve puede encogerse o desaparecer. No se sabe todavía con qué frecuencia cambian esas reglas.
+2. **La distribución está sin probar.** "Me encuentran en Google y en los foros" es una esperanza, no un canal. No hay datos sobre cuántos vendedores sufren el bloqueo cada mes, qué buscan, quién más aparece en esas búsquedas ni cuánto cuesta captar cada cliente. Los 300 € van a casos con testimonio, lo cual está bien, pero no responden cómo llegan los primeros 100 clientes.
+3. **El éxito depende de un tercero que el fundador no controla.** Si el proveedor o fabricante del vendedor no tiene o no entrega la documentación, no hay desbloqueo y la garantía devuelve el dinero. Si ese caso es frecuente, la tasa de éxito, la reputación y el margen se hunden a la vez. Además, al ser un servicio por horas de una sola persona, no hay economías de escala a la vista.
 
 ## Las preguntas que le haría al fundador
-- ¿Cuál es el secreto? ¿Qué sabes de la revisión de mercancías peligrosas de Amazon que otros no saben, y lo has demostrado desbloqueando productos reales?
-- ¿Quién más vende esto hoy a un vendedor español, y a qué precio? (pregunta abierta: no hay datos de competidores)
-- ¿Cuántos vendedores en España tienen productos retenidos cada mes? (pregunta abierta: no hay tamaño de mercado)
-- ¿Cómo llegan tus primeros 100 clientes y cuánto cuesta cada uno?
-- ¿Qué te impide ser copiado en seis meses? ¿Qué acumulas (plantillas, base de casos resueltos, historial de éxito) que sea más difícil de replicar cada mes?
-- ¿Por qué ahora? ¿Ha cambiado algo en la revisión de Amazon que haga crecer este problema?
-- ¿Qué pasa si Amazon cambia el proceso o lanza su propia ayuda? ¿Dónde te expandes después?
+1. ¿Quién más vende esto hoy a un vendedor de Amazon en España (consultores ADR, agencias de Amazon, laboratorios de ensayo, gestorías) y a qué precio? Pregunta abierta: no hay datos de competidores.
+2. ¿Cuál es el secreto concreto? ¿Qué sabe usted del proceso de revisión de Amazon que un consultor de mercancías peligrosas genérico no sabe, y cómo lo demostraría con una tasa de desbloqueo?
+3. ¿Cuántos vendedores en España sufren este bloqueo al mes y cuántos lo resolverían pagando? Pregunta abierta: tamaño de mercado sin datos.
+4. ¿Qué parte de los casos falla porque el fabricante no tiene o no entrega la documentación? ¿Puede detectarlo antes de cobrar?
+5. ¿Qué impide que alguien copie el servicio en seis meses? ¿Qué podría acumular que otro no tenga: una base de casos y respuestas de Amazon, una red de fabricantes con documentación ya preparada, una marca de "especialista en litio en Amazon"?
+6. ¿Por qué ahora? ¿Están endureciéndose las revisiones de Amazon, o es un problema estable? Pregunta abierta: las reglas exactas de Amazon y su evolución no están documentadas en el brief.
+7. ¿Cómo llegan los primeros 100 clientes y cuánto cuesta cada uno? Pregunta abierta: coste de captación sin datos.
 
 ## Si FUND IF: las condiciones
-1. **Probar el saber propio:** desbloquear al menos 10 productos reales de pago, con tasa de éxito y tiempo medio documentados, antes de gastar más.
-2. **Medir la distribución:** saber cuánto cuesta captar a cada cliente y que quede claramente por debajo de lo que deja cada encargo.
-3. **Construir una ventaja que crezca:** convertir cada caso resuelto en una base de conocimiento propia (por categoría de producto y tipo de documento) que haga el servicio más rápido y fiable que cualquier alternativa, y demostrarlo con resultados.
-4. **Mapear la competencia:** identificar quién más ofrece esto en España y a qué precio, y confirmar que hay un hueco que se puede dominar.
+1. **Probar la ventaja:** cerrar los 5–10 casos iniciales y medir la tasa de desbloqueo, el tiempo y las horas por caso. Seguir solo si la tasa de éxito es claramente superior a lo que el vendedor consigue por su cuenta.
+2. **Probar el canal:** antes de gastar más, demostrar que llegan clientes que pagan el precio completo de 149 € desde búsqueda o foros, y estimar cuánto cuesta cada uno.
+3. **Filtrar antes de cobrar:** un diagnóstico previo que detecte si el fabricante tiene la documentación, para que la garantía no se coma el negocio.
+4. **Empezar a construir algo defendible:** registrar cada caso (qué pidió Amazon, qué funcionó) para formar una base de conocimiento propia, y explorar una red de fabricantes con documentación lista. Sin un activo así, esto es un servicio personal, no un negocio que dure.

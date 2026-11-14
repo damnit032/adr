@@ -1,31 +1,30 @@
 # Lente Offers
-Puntuación: 5/10 | Voto: FUND IF
+Puntuación: 6/10 | Voto: FUND IF
 
 ## Lo que es fuerte
-- **El dolor es agudo y tiene fecha.** Un producto retenido en la revisión hazmat no se vende o no puede entrar en los almacenes de Amazon: el vendedor pierde ventas cada día que pasa. Es un problema urgente, no un "algún día".
-- **Los compradores tienen dinero y lo gastan en su negocio.** Son vendedores con producto ya fabricado o comprado; 79 € compite contra el coste del stock parado, no contra su bolsillo personal.
-- **Son fáciles de encontrar en el momento justo.** Quien busca el problema en Google o lo pregunta en un foro de vendedores está buscando solución en ese momento. Es un canal de intención alta y barato de probar con 300 €.
-- **El resultado soñado es claro y medible:** "tu producto vuelve a estar a la venta". Se puede vender y garantizar por resultado, que es justo lo que esta lente busca.
-- **Esfuerzo bajo para el comprador si se hace por él.** Si el servicio recopila y prepara la documentación en lugar del vendedor, ataca el factor que más hunde las ofertas: el esfuerzo.
+- **Dolor agudo y caro.** Un producto bloqueado no se vende o no entra en el almacén: el vendedor pierde ingresos cada día que pasa. El dolor es real y urgente, que es justo lo que la lente busca primero en el mercado.
+- **Compradores con dinero y fáciles de encontrar.** Los vendedores de Amazon ya facturan, y buscan la solución donde el fundador piensa estar: Google y los foros de vendedores. Llegar a ellos sale barato.
+- **Resultado soñado claro y fácil de explicar.** "Tu producto vuelve a estar a la venta." No hace falta convencer a nadie de que lo quiere.
+- **Poco esfuerzo para el comprador.** Es un servicio llave en mano: se revisa su documentación, se le deja lista para subir y se le acompaña hasta que Amazon responda. Ese es el punto fuerte de la ecuación de valor.
+- **La credibilidad de base existe.** El certificado ADR y la experiencia con mercancías peligrosas en el negocio dan un motivo para creer que funciona, antes incluso de los testimonios.
+- **Garantía de devolución desde el primer día y uso inteligente de los 300 €.** Cambiar casos reales a precio reducido por testimonios es la manera correcta de fabricar la prueba que hoy falta.
 
 ## Lo que lo mataría (los 3 principales, el más peligroso primero)
-1. **Probabilidad percibida sin pruebas.** La decisión final la toma Amazon, no el servicio. Sin casos resueltos, sin experiencia demostrada del fundador en mercancías peligrosas (hoy desconocida) y sin una política clara para cuando el producto no se desbloquea, el comprador no tiene motivo para creer que funcionará. Es el punto débil típico de la ecuación de valor y aquí es el más grave.
-2. **Mercado sin medir y quizá pequeño.** No se sabe cuántos vendedores en España tienen productos retenidos, con qué frecuencia ni si el número crece o baja. Si el dolor es puntual (un producto, una vez) y el volumen es bajo, 79 € por producto no sostiene un negocio aunque la oferta sea buena. Si el mercado es débil, esta lente pasa.
-3. **Oferta de commodity.** Tal como está planteada es "te tramito el papeleo por 79 €". Si existen alternativas (agencias, consultores, la propia ayuda de Amazon, guías gratuitas en foros), sin un paquete diferenciado acabará compitiendo por precio. Hoy no hay datos de competidores ni de sus precios.
+1. **Una garantía que depende de cosas que el negocio no controla.** El desbloqueo depende de que el proveedor o fabricante del vendedor entregue la documentación y de la decisión de Amazon. Si la garantía devuelve el dinero también en esos casos, cada caso sin documentación del proveedor se convierte en horas de trabajo perdidas más un reembolso. Hace falta saber con qué frecuencia el proveedor no tiene o no entrega la documentación, y nadie tiene ese dato todavía.
+2. **Un precio sin economía detrás.** 149 € por producto, sin saber cuántas horas lleva cada caso ni cuánto tarda, puede ser demasiado barato (no da margen) o competir solo en precio frente a alternativas que aún no se conocen. Los packs para catálogos grandes, sin precio, son donde más fácilmente se regala el margen.
+3. **Un mercado de tamaño y ritmo desconocidos.** No se sabe cuántos vendedores en España se encuentran con este bloqueo, si les pasa una vez o de forma recurrente, ni si el mercado crece. Si el problema surge solo de vez en cuando, cada cliente compra una vez y el negocio vive de captar clientes nuevos sin parar, a un coste por cliente que tampoco se conoce.
 
 ## Las preguntas que le haría al fundador
-- ¿Cuántos vendedores en España tienen hoy productos retenidos en la revisión hazmat y cuántos productos por vendedor? ¿El problema está creciendo? (Pregunta abierta: nadie tiene el dato aún.)
-- ¿Qué experiencia tienes con mercancías peligrosas o con esta revisión de Amazon? ¿Cuántos productos has desbloqueado ya, aunque sea gratis?
-- ¿Qué entregas exactamente: revisión del caso, obtención de la ficha de datos de seguridad, redacción y envío, seguimiento hasta la resolución?
-- ¿Cuánto tarda, desde el pago hasta que el producto vuelve a venderse?
-- ¿Qué pasa si Amazon no lo desbloquea? ¿Devuelves el dinero?
-- ¿Qué exige Amazon exactamente en cada categoría y cuánto cambia? (Pregunta abierta: hay que verificarlo en las normas vigentes de Amazon, no suponerlo.)
-- ¿Cuánto cuesta captar un cliente por Google y foros, y cuántas horas te lleva cada producto? (Preguntas abiertas: sin datos de coste de captación ni de margen.)
-- ¿Podrías cobrar el doble y seguir siendo la opción obvia? ¿Qué tendría que incluir la oferta para eso?
+- ¿Cuántas horas y cuántos días calendario lleva un caso típico, y uno difícil?
+- ¿Qué haces cuando el proveedor del vendedor no tiene o no entrega la documentación? ¿Lo cubre la garantía?
+- ¿Cuántos vendedores en España tienen productos bloqueados en esta revisión, y con qué frecuencia les vuelve a pasar? (Pregunta abierta: no hay datos.)
+- ¿Quién más resuelve esto hoy (agencias, consultores, el propio vendedor con plantillas) y a qué precio? (Pregunta abierta: no hay datos.)
+- ¿Cuánto pierde un vendedor por cada semana que el producto está bloqueado? Ese número decide si 149 € es barato o caro para él.
+- ¿Podrías cobrar el doble con un plazo de entrega comprometido, y seguir siendo la opción obvia?
+- ¿Cuánto tiempo a la semana puedes dedicar al negocio y cuántos casos al mes caben en ese tiempo?
 
 ## Si FUND IF: las condiciones
-1. **Prueba antes de escalar:** desbloquear entre 5 y 10 productos reales (gratis o a precio reducido a cambio de testimonio) y documentar tasa de éxito y tiempo medio. Sin esto no hay probabilidad percibida.
-2. **Garantía por resultado:** "si Amazon no lo desbloquea, no pagas" o devolución completa, con un plazo concreto. Solo si la tasa de éxito medida la hace asumible.
-3. **Construir el paquete, no vender el trámite:** listar cada obstáculo del vendedor (qué documento falta, dónde conseguirlo, cómo presentarlo, qué hacer si lo rechazan, cómo evitar que vuelva a pasar con el siguiente producto) y convertirlo en parte de la oferta, con un nombre claro. Considerar precio por paquete o por catálogo para vendedores con varios productos.
-4. **Medir el mercado:** antes de gastar el presupuesto, estimar el volumen de búsquedas y de hilos en foros sobre el problema en España como señal de demanda, y comprobar qué alternativas existen y a qué precio.
-5. **Urgencia real, nunca inventada:** usar la que ya existe (ventas perdidas por día de bloqueo) y, si hay capacidad limitada de casos por semana, decirlo solo si es verdad.
+1. **Acotar la garantía a lo que se controla.** La devolución cubre que la documentación preparada sea correcta y completa; antes de cobrar, un diagnóstico confirma que el proveedor puede aportar lo necesario. Si no puede, se devuelve el dinero o no se cobra el servicio completo, y eso se dice por escrito.
+2. **Medir los 5–10 primeros casos.** Registrar horas, días hasta la respuesta de Amazon, tasa de desbloqueo y casos en que faltaban documentos del proveedor. Con esos números se fija el precio definitivo y el de los packs; no antes.
+3. **Construir la oferta completa, no solo el precio.** Añadir lo que es barato de entregar y valioso para el comprador: un plazo de entrega comprometido, la carta o el guion para pedir los documentos al proveedor, y una lista de comprobación para que el resto del catálogo no se bloquee. Convertir los testimonios en casos con cifras (días bloqueado, días hasta el desbloqueo).
+4. **Responder a las preguntas abiertas del mercado** (tamaño, frecuencia del problema, competidores y sus precios, coste de captar un cliente) antes de gastar dinero en algo que no sean los primeros casos.

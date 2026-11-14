@@ -1,28 +1,30 @@
 # Lente Product
-Puntuación: 4/10 | Voto: FUND IF
+Puntuación: 6/10 | Voto: FUND IF
 
 ## Lo que es fuerte
-- **Se explica en una frase:** "Te desbloqueamos el producto que Amazon te retiene por mercancía peligrosa." El cliente entiende enseguida qué compra.
-- **Hace una sola cosa:** resuelve un único problema concreto, no vende un servicio genérico de "gestión de Amazon". Es el foco que pide la lente.
-- **El momento del cliente es claro:** un vendedor con el producto bloqueado y las ventas paradas busca el problema en Google. Si el servicio está bien hecho, el primer contacto con él puede ser muy bueno.
-- **Precio fácil de entender:** una tarifa fija por producto (79 €), sin cuotas ni letra pequeña.
+- **Cabe en una frase:** "Desbloqueamos tu producto con batería de litio retenido por Amazon, o te devolvemos el dinero". El resultado se entiende sin explicar nada más, y eso es justo lo que pide la lente Product.
+- **El foco ya existe:** un problema (bloqueo hazmat), una sola familia de producto (baterías de litio), un país (España), un canal (web). No hay nada que recortar todavía.
+- **La experiencia empieza en un momento claro y doloroso:** el vendedor tiene stock parado y ventas perdidas. El servicio llega a ese momento con un resultado concreto: "listo para subir, y te acompaño hasta la respuesta".
+- **Hay oficio donde el cliente no mira:** quien prepara los documentos sabe de mercancías peligrosas, y eso se nota en los detalles (clasificación, fichas, coherencia entre documentos). Es la calidad invisible que la lente valora.
+- **La garantía alinea el producto con el resultado**, no con las horas: obliga a hacerlo bien a la primera.
 
 ## Lo que lo mataría (los 3 principales, el más peligroso primero)
-1. **La parte decisiva no depende del negocio.** Quien aprueba es Amazon, y la documentación suele tener que salir del fabricante o del proveedor. Hay dos traspasos que el negocio no controla: del proveedor al negocio y del negocio a Amazon. Si en cualquiera de los dos algo falla, el cliente lo vive como un fallo del servicio, y no hay nada definido para ese caso. Queda abierto qué parte del resultado depende de verdad del trabajo del negocio y qué parte de las reglas y los plazos de Amazon, que el brief no aclara.
-2. **El servicio aún no está diseñado desde la experiencia del cliente.** No se sabe qué incluye, cuánto tarda ni qué pasa si el producto no se desbloquea. Sin eso no se puede describir qué vive el cliente en los primeros cinco minutos ni en los días siguientes, y lo que se acabe entregando quedará improvisado.
-3. **El cuidado en lo que no se ve, con mercancía peligrosa.** Los documentos de seguridad tienen que ser exactos. Un atajo invisible para el cliente, como presentar documentos que no corresponden al producto o hacerlos con prisas, puede costarle el anuncio o la cuenta al vendedor y dejar al negocio sin reputación. Que el fundador tenga experiencia en mercancías peligrosas o en la revisión de Amazon es una pregunta abierta.
+1. **La costura con el proveedor del vendedor.** El resultado depende de documentación que suele tener el fabricante (a menudo fuera de España). Si no existe o no llega, la experiencia se rompe en un punto que el negocio no controla, y la garantía convierte ese fallo en reembolsos. Hoy no se sabe qué pasa en ese caso, y es el escenario con más probabilidad de repetirse.
+2. **La costura con Amazon.** El último paso (la revisión y la respuesta) lo decide un tercero cuyas reglas, plazos y criterios exactos no se conocen y pueden cambiar. Si el cliente vive esperas largas o rechazos sin explicación, percibirá el servicio como fallido aunque los documentos fueran correctos. No está claro qué cubre exactamente la garantía en ese caso.
+3. **La experiencia no está diseñada de principio a fin.** No hay nombre, ni flujo de encargo descrito, ni tiempo por caso, ni qué ve el cliente entre el pago y la respuesta de Amazon. Los packs "sin definir" amenazan el foco antes de tener el producto básico pulido. Sin esto, cada caso será artesanal y no se podrá repetir con la misma calidad.
 
 ## Las preguntas que le haría al fundador
-- Desde el pago hasta el producto desbloqueado, ¿qué vive el cliente paso a paso? ¿Qué le pides, qué recibe y cuándo?
-- ¿Qué pasa si Amazon rechaza la documentación o el producto no se desbloquea? ¿Se devuelve el dinero, se reintenta o no pasa nada?
-- ¿Cuánto tarda de media un desbloqueo y cuánto de ese tiempo depende de ti y no de Amazon ni del proveedor?
-- ¿Qué categorías de producto dejarías fuera para hacer muy bien unas pocas, por ejemplo solo cosmética o solo baterías?
-- ¿Qué experiencia tienes con fichas de datos de seguridad, mercancías peligrosas y el proceso de revisión de Amazon? ¿Cuántos casos reales has resuelto?
-- ¿Cómo gestionas el caso en que el proveedor del vendedor no tiene o no entrega la documentación?
-- Datos que nadie tiene aún y que hacen falta: cuántos vendedores en España tienen productos retenidos, qué cobra la competencia, cuánto cuesta captar un cliente y qué exige Amazon exactamente en cada categoría.
+- ¿Cómo son los primeros cinco minutos del cliente en la web? ¿Qué sube, qué le preguntas y qué recibe de vuelta, y cuándo?
+- ¿Qué haces el día que el fabricante no tiene la documentación o no contesta? ¿Lo rechazas antes de cobrar, lo resuelves tú (¿con qué coste?) o se aplica la garantía?
+- ¿Qué cuenta exactamente como "desbloqueado" para la garantía, y en qué plazo?
+- ¿Cuántas horas lleva un caso típico y cuánto tarda de principio a fin? (Hoy no hay dato.)
+- ¿Qué reglas concretas aplica Amazon a estos productos en España, y con qué frecuencia cambian? (Pregunta abierta que hay que documentar, no suponer.)
+- ¿Cuánto tiempo tienes de verdad para esto cada semana?
+- ¿Qué dejarías fuera en el primer año? ¿Packs, otras categorías hazmat, otros marketplaces?
 
 ## Si FUND IF: las condiciones
-1. **Una página que describa la experiencia completa:** qué recibe el cliente, en qué plazo, qué documentos tiene que aportar y qué pasa si el producto no se desbloquea, con una política clara de devolución o de reintento.
-2. **Centrarse al principio en una o dos categorías** y decir que no al resto hasta dominarlas.
-3. **Resolver primero 5 casos reales**, aunque sea gratis o con descuento, para medir la tasa de desbloqueo, el tiempo y dónde se rompen los traspasos con el proveedor y con Amazon antes de cobrar 79 € a desconocidos.
-4. **Un control de calidad por escrito de cada documento** antes de enviarlo a Amazon, sin atajos.
+1. **Un filtro de entrada antes de cobrar:** una revisión rápida que diga "este caso sí / este no" según la documentación disponible, para que la garantía solo cubra casos viables y el fallo del proveedor no llegue al cliente como un reembolso.
+2. **Definir y escribir la garantía** (qué es "desbloqueado", en qué plazo, qué pasa si Amazon tarda o cambia de criterio) antes del primer caso real.
+3. **Dibujar el recorrido completo del cliente** (encontrar la web, encargar, pagar, entregar documentos, esperar, recibir respuesta, seguimiento) con un mensaje y un plazo en cada paso, y probarlo en los 5–10 casos de testimonio.
+4. **Medir en esos casos** las horas por caso, el plazo total, la tasa de desbloqueo y cuántos se atascan por falta de documentación del proveedor. Solo con esos datos se decide el precio de los packs.
+5. **No lanzar packs ni otras categorías** hasta que el producto de un solo caso funcione igual de bien de forma repetida.
