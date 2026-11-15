@@ -1,13 +1,10 @@
-# Desbloqueo Hazmat (nombre provisional) — versión 3
+# Buscador de consejeros ADR (nombre provisional)
 
-- Qué es: un servicio online que desbloquea productos con baterías de litio que Amazon retiene en su revisión de mercancías peligrosas.
-- Cómo funciona:
-  1. Diagnóstico de 29 € en 24 horas: se comprueba si la documentación del fabricante existe y se puede conseguir. Si no se puede, el vendedor lo sabe antes de pagar el servicio.
-  2. Si se puede: se revisa todo, se prepara lo que Amazon pide y se deja listo para subir en 3 días laborables desde que se tiene la documentación.
-- Garantía: cubre lo que el fundador controla. Si lo entregado tiene un error o llega tarde, se devuelve el dinero.
-- Para quién: vendedores de Amazon en España de electrónica, juguetes y accesorios con batería.
-- Qué vende y a qué precio: 149 € por producto, con los 29 € del diagnóstico descontados. Sin packs hasta que el caso individual funcione siempre igual.
-- Activo a largo plazo: cada caso resuelto alimenta una base propia y anonimizada de tipos de batería, documentación exigida y respuestas de Amazon, que con el tiempo se convierte en una herramienta de autodiagnóstico de pago.
-- Dónde y cómo: solo online. Los clientes lo encuentran en Google y en los foros de vendedores, y lo encargan en la web propia.
-- Presupuesto y limitaciones: 300 €, dedicados a resolver los primeros 5–10 casos reales a precio reducido para medir horas, tasa de éxito y precio, y conseguir testimonios.
-- Experiencia del fundador: certificado de consejero de seguridad ADR en todas las especialidades; más de 17 años en logística, más de 10 de ellos en el sector químico-farmacéutico trabajando con mercancías peligrosas.
+- Qué es: un buscador online donde las empresas españolas obligadas a tener consejero de seguridad ADR (expedidores, cargadores, transportistas) piden presupuesto a consejeros externos de su provincia y sector.
+- Para quién (quien paga): consejeros de seguridad independientes y consultoras pequeñas.
+- Para quién (quien busca, gratis): empresas españolas obligadas a tener consejero de seguridad ADR.
+- Qué vende y a qué precio: cuota mensual de 39 € por aparecer y recibir solicitudes de su zona.
+- Qué hace el fundador: comprueba que los certificados de los consejeros están vigentes. No presta el servicio de consejero.
+- Dónde y cómo: solo online. Las empresas lo encuentran en Google y a través de contenido propio sobre ADR. Los consejeros se dan de alta solos en la web.
+- Presupuesto y limitaciones: 300 €, para una página por provincias y anuncios pequeños durante 4–6 semanas, para medir cuántas empresas piden presupuesto antes de cobrar a ningún consejero.
+- Experiencia del fundador: certificado de consejero de seguridad ADR en todas las especialidades (no ejerce); más de 17 años en logística, más de 10 en el sector químico-farmacéutico con mercancías peligrosas.
